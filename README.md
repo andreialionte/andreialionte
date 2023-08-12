@@ -8,6 +8,9 @@ I am an undergraduate student pursuing Computer Science at the Faculty of Comput
 
 - 📫 How to reach me **andrei.alionte@gmail.com**
 
+- ⚡ Fun fact: I can debug code faster than my coffee cools down.
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/andreialionte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrei alionte" height="30" width="40" /></a>
