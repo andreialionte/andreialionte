@@ -8,7 +8,7 @@ I am an undergraduate student pursuing Computer Science at the Faculty of Comput
 
 - 📫 How to reach me **andrei.alionte@gmail.com**
 
-- - ⚡ Fun fact: I can debug code faster than my coffee cools down.
+- ⚡ Fun fact: I can debug code faster than my coffee cools down.
 
 
 
