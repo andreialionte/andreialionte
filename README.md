@@ -34,3 +34,8 @@ I am an undergraduate student pursuing Computer Science at the Faculty of Comput
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreialionte&show_icons=true&locale=en&layout=compact" alt="andreialionte" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andreialionte&show_icons=true&locale=en" alt="andreialionte" /></p>
+
+<h3 align="left">Wakatime Stats:</h3>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=andreialionte" alt="Wakatime Stats" />
+</p>
