@@ -38,9 +38,10 @@ I am an undergraduate student pursuing Computer Science at the Faculty of Comput
 <h3 align="left">Wakatime Stats:</h3>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=andreialionte&api_key=waka_43390791-18e3-4e50-a14b-155b9d5d77d7" alt="Wakatime Stats" />
-<h3 align="left">Today's Coding Activity:</h3>
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=andreialionte&custom_title=Today%27s%20Coding%20Activity&hide_title=true" alt="Today's Coding Activity" />
 </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andreialionte&show_icons=true&locale=en" alt="andreialionte" /></p>
+
+![WakaTime](https://wakatime.com/badge/day/waka_43390791-18e3-4e50-a14b-155b9d5d77d7.svg)
 
 
