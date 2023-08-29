@@ -39,7 +39,3 @@ I am an undergraduate student pursuing Computer Science at the Faculty of Comput
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=andreialionte&api_key=waka_43390791-18e3-4e50-a14b-155b9d5d77d7" alt="Wakatime Stats" />
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andreialionte&show_icons=true&locale=en" alt="andreialionte" /></p>
-
-
