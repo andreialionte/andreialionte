@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andrei Alionte</h1>
-<h3 align="center">A passionate frontend developer from Romania.</h3>
+<h3 align="center">A passionate software engineer from Romania.</h3>
 I am an undergraduate student pursuing Computer Science at the Faculty of Computer Science, Ovidius University in Constanța, Romania. I have a strong interest in exploring the world of web development and I'm passionate about the field of computer science. I'm always seeking new challenges and enjoy solving programming problems.
-
-- 🌱 I’m currently learning **Redux and Node.js**
 
 - 💬 Ask me about **React**
 
