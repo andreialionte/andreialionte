@@ -2,8 +2,6 @@
 <h3 align="center">A passionate software engineer from Romania.</h3>
 I am an undergraduate student pursuing Computer Science at the Faculty of Computer Science, Ovidius University in Constanța, Romania. I have a strong interest in exploring the world of web development and I'm passionate about the field of computer science. I'm always seeking new challenges and enjoy solving programming problems.
 
-- 💬 Ask me about **React**
-
 - 📫 How to reach me **andrei.alionte@gmail.com**
 
 - ⚡ Fun fact: I can debug code faster than my coffee cools down.
